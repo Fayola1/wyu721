@@ -5,8 +5,8 @@ public class Main {
 		Vehicle vehicle = new Vehicle(12, 1000);
 		System.out.println(vehicle);
 		vehicle.speedUp();		
-		System.out.println("加速后："+vehicle);
+		System.out.println("鍔犻�熷悗"+vehicle);
 		vehicle.speedDown();
-		System.out.println("减速后："+vehicle);
+		System.out.println("鍑忛�熷悗"+vehicle);
 	}
 }
